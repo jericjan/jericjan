@@ -21,5 +21,7 @@ Here are some ideas to get you started:
 - ~~C#~~ I forgor💀
 
 📫 How to reach me: ...
-- Discord: Kur0#5384
-- Twitter: @CantilJan
+- Discord: [Kur0#5384](https://discord.com/users/396892407884546058)
+- Twitter: [@CantilJan](https://twitter.com/CantilJan)
+
+[![jericjan's github activity graph](https://activity-graph.herokuapp.com/graph?username=jericjan&theme=react-dark&custom_title=le%20activity%20graph&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
