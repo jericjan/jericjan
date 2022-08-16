@@ -1,5 +1,5 @@
 
-![codewars](https://www.codewars.com/users/jericjan/badges/large)
+[![codewars](https://www.codewars.com/users/jericjan/badges/large)](https://www.codewars.com/users/jericjan)
 ### Hi there 👋
 
 <!--
