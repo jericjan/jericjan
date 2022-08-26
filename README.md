@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 <img src="/sanzmeme-moai.gif?raw=true" align="right"  width="300px">
 
-🔭 I’m currently working on ...
-- Kur0bot
-
 🌱 Languages I know ...
 - Python 🐍
 - JS 🗿
