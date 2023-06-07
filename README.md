@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 
 [![jericjan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jericjan&theme=react-dark&custom_title=le%20activity%20graph&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center">
+  <a href="https://github.com/cicirello/user-statistician"><img src="images/userstats.svg"></a>
+</p>
