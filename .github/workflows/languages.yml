@@ -1,7 +1,3 @@
-# This workflow configures the user-statistician with the
-# dark color theme, but otherwise uses all of
-# the defaults. It is configured on a daily schedule at 3am.
-
 name: user-statistician
 
 on:
@@ -9,7 +5,7 @@ on:
     - cron: '0 3 * * *'
   push:
     branches: [ main, master ]
-    paths: [ '.github/workflows/dark.yml' ]
+    paths: [ '.github/workflows/languages.yml' ]
   workflow_dispatch:
 
 jobs:
@@ -23,5 +19,6 @@ jobs:
       uses: cicirello/user-statistician@v1
       with:
         colors: dark
+        hide-keys: general, contributions, repositories
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
