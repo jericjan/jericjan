@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    866k added, 105k removed
+                                    582k added, 77.1k removed
                                 </div>
                             </section>
                             <section>
@@ -1327,7 +1327,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            313 hours played
+                            314 hours played
                         </div>
                     </section>
                 </div>
@@ -1406,7 +1406,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        12 hours played
+                                        13 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1423,7 +1423,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            6 / 17 achievements unlocked
+                                            7 / 17 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQYHAQME/8QAMBAAAQMDAgMHAQkAAAAAAAAAAQIDBAUGEQASITGRBxMUFiJBcVEyQlJhYnKBobH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQF/8QAIhEAAQQCAQQDAAAAAAAAAAAAAQIDBBEAITFhkaGxEiPw/9oADAMBAAIRAxEAPwCrWZSKS7aFOlT6bSsCOFOOuxkEkAc1KP8Augs+5bb74tUKzmaqkK2h5ERKG1H6JO0k8vy0t3TWHIdiW3TEne3JbEh9OSN6EkAIyPYnPQasLLUeRQmYsZtLMN+OEhEdRACVJ5JIx9eetlf0gOu2fkTWyODmKinyWWqBSBZoHZHbJhTLwtyRO8PU7dplL44KlQ0uJSf1cAR0051yjUfyrVpDVKpgIhOrbdbjIBzsJCgQP5zpD7QIFuW5Sk0lqP4mpKUp1CyopcYQo5G5QGFDhyPtnlrd2eVh+VYty0x71piQnVtLUeKUKQr0/GR/eqHGApCZDNgWNE8i+RvJW5BStUZ8JJo7A4NcHVdsB3bAdkWbb1TaQSyw14Z0j7pPFPXiNc1s3fKp1HlUl6ZKYjO7e5fYwpcc7gVYBI4EZ4Z4aoNp123k2VCplSlxcOI2SGnVDl7g9BpGrFtW+pxTtKuOK22pZwzIySkfuHMfI0+NIQpJYkJOjo11vESYziViRGUNgWL6V+64JnUWtVBiVWe6fnw0qUFzE+rcE4yo+/LGTjTZ2cUl5uy7pqju5LL0J1lofj2oUSfjJA66zSBThTY9Lq91NLpTRJMOEnuw5k5O9ZwTp0q9x235TqMGnz4aAILrTLKFgD7BASBoSZilgMpFixsA8A+/GGNCQhRfUaNHRI5I9ec//9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>The internet on a disk</div>
+                                                <div class="unlocked">30 Jul 2023</div>
+                                            </div>
+                                            <div class="description">Post a web wallpaper to the Workshop.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -1437,18 +1447,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcAAwQF/8QAKxAAAQQCAQIEBgMBAAAAAAAAAQIDBAUGEQAhMQcSE0EUMlFhcaEiI2KB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQF/8QAIhEAAQMEAQUBAAAAAAAAAAAAAQIDBAARITFhEkFRcYET/9oADAMBAAIRAxEAPwBt4PRVcrFKt+XV1i1KYSVLXFQVK6dySO/Jk8nD8dih2VTVy1K6IQIqNrP26fvm/wAPUAYVVeorzbZB1/ziZ8WZTkjOrFtwn04/labT7JSEg/sknmxDZXKkqQpRAFzvmsWa8iJFStKASbDXFNegh1F3Ux7FqoomWnhv0xGQ4pP2Oh3+3L8goalvF7h1NRXIcRDeUhxMVCVBQQdEaHTglhmH2NBPgWUW8jLhvhK3WWkqJebI3oDsfz04eZI665i14THW2j4B/wDk4evyH24Lx/OQA04SL84zrNOyC5HJdbCVW4zjeK5eBWUKLiFc5PlMRm0MgAurCQdAb1vvripyd+PkF/KmuCMpxZCSqJMQlKwnoFBLgB6gD34ZY/Jw+ZidRGvVwnH2k6V6qtKbHc60em9AcyP0/hy60omaWVlZA9KQTofg75XEcbjuKUoKub9sb91HLbcktIQkp6QB3zr1Vvhpbyap5FWYthKjuq/qAZSotE/7Sojy+5Htxg5Uh44xdrecGvgX9IT2+Q8Uy6HEGJCHanK5Md5CgpCylJ8p+uxrhxMyaqVhNhDk30WdYGC836vRBdUUnXT69hw5SEOPJdavki+CPvikiLW2ypp22AbZB+ea/9k=" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>High aspirations</div>
-                                                <div class="unlocked">1 Apr 2022</div>
-                                            </div>
-                                            <div class="description">Post a scene wallpaper to the Workshop.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+4 others...</div>
+                                            <div class="description ellipsis">+5 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1459,7 +1459,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Jul 2023, 20:10:35 (timezone Asia/Singapore) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 30 Jul 2023, 21:06:02 (timezone Asia/Singapore) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
