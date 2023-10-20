@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - Python 🐍
 - JS 🗿
 - ~~C#~~ I forgor💀
+- C++ and Java basics (cuz college)
 
 📫 How to reach me: ...
 - Discord: [Kur0#5384](https://discord.com/users/396892407884546058)
