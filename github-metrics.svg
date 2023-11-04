@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    870k added, 106k removed
+                                    584k added, 77.4k removed
                                 </div>
                             </section>
                             <section>
@@ -1937,7 +1937,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAUGB//EACsQAAEDAwIFBAEFAAAAAAAAAAECAwQABREGIRITMUFRBxQiYRYkMkJxgf/EABgBAAIDAAAAAAAAAAAAAAAAAAEGAAQF/8QAHhEAAgMAAgMBAAAAAAAAAAAAAQIAAxESITFBYXH/2gAMAwEAAhEDEQA/AMPHZRbGxFhgNpbABUkbrPck96v6Pgqvt/YgyJbjLSkqUopxxHAzgZ7moswfqndv5Vr9DXqNYo4lTH0FkOEGOyTzlqVgcSweqUpBIx3Pmnx14V5WPyMDWulxQMQoJ630IDXFs/H737SLMceaU2HBxkcSMk7HH9Z/2s1IZRc2zFmAOJcGApQ3QexB7VodXzpT895EtmGtbiuamW0j5PNEko+XjG3QHbB6VDhg+6a2P7qKpyrx+4Eud7gjMSCQMJnftJtoOmraShBPJG5SPuous7m5ZXzIiLy6GwOQ8BylJVkcSQBupKgCfo+KN6e61ss7TEJKprTLzTYQtCzgg07Vc+1XmyPQ2LxFacUUqBUo4ODnB26Vl192ciNBl66t7CXrGg9giM0rIhvwmkRo8haXE8xUl1vKXXDgr+XnO3QDbA6UnVjaBpq5EIQDyTuEj6qLo2XbLHaPaybzEdcU4XDwqPCnONhkfVG9Qta2WDpialM1p551soQhBySaDjjZvrfMlKPWVdxgHn5P/9k=" alt="" />
+                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Inner World</div>
@@ -1947,7 +1947,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwL/xAArEAACAQMCBAUEAwAAAAAAAAABAgMEBREAIQYSEzEHIkFCURVhcYEykdH/xAAXAQADAQAAAAAAAAAAAAAAAAADBQYC/8QAJREBAAIBAgUEAwAAAAAAAAAAAQIRAwAEBRIhMUETUWGBFVKh/9oADAMBAAIRAxEAPwCLoqMW6DoUI5FjPKeUDL7bsSe5zramkmmJJnmC8q+q9/61a8H2ahmoq26XCNqoLWdBKcEqo8gOWI3PxgfGkXiZx8tuop7HbKe3FKiExyLAoQ0jhgQQB7u+51XflCOU223w8xFBbAPeu6180Ph1S5ceaEZZCfLAUC/mqDXE9luyWmK7Rioltzc4Z4mVimD7hjIHfQ974ZrHtEU1zpJhR1LiKN5gAQxBIZfd6asfAu/3Gsti0ddaTS2+OAzfUZCxWduxY58q7Adtb+Ly1X1azsJ0ktzjmiCrsHx5jkbHI5T+NJ8XHdxn4m8My44kVk37xpQoU5vvt4NZxs5MSclJV0b7LWgfD2paZr5acqGciqiHPuSgHMAPwc/rSDj7w7S70kl3tj01NVKxEkZBzVStuoDZwCcH9n76V8P3dhWwXe1yMZVIdeQA8h5cFWHf1I+DnR95vV3u7kVfVaNVHSiCKkaH1wo27epzphPh+ee69fbZCMJ0r5sKSqpEDyU3ouSc5454yDIWxDVN4WWLi6w0sUF2eaSjkp+mtvnTywAvk5z5dx/mpziCNqTiGejp5zLb4axugomZkQEHZQdvt+tBT1l1lpUpZJq5oFDDk6mV+BtnHbQFXVi3UxmrW6axkMoYjL7fxGO5zo2y4a7PNk3Wacep2iUX+z1evc+3q6EEiWO8bEilrf8AV1//2Q==" alt="" />
+                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>One More Needed</div>
@@ -1969,7 +1969,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Nov 2023, 11:07:13 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Nov 2023, 12:08:01 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
