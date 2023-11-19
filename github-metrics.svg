@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    579k added, 75k removed
+                                    515k added, 12.4k removed
                                 </div>
                             </section>
                             <section>
@@ -1850,7 +1850,7 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHQAAAQQDAQEAAAAAAAAAAAAACAAFBwkBBAYCA//EADkQAAEDAwIEAwUFBwUAAAAAAAECAwQABREGIQcIEjETIlEWMkFhcRQVI6GxFxg2N0JFUmJygYKR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ABnu90euMkuvFJOMZApxh6N1JNjIeiWeU4wd0qSnY174eRmZ2urLGmIDjDkgBaR8RVhzzlk09p9EmcI0OAw0nqcUkBKRj40FevsHqs/2OZn/AGil7CasJwLHMydvdFWJWSZZ79AROtK4suIvZLrSfKa1LvfNOWidFh3STDiypCulptY3WflQV8HQeqxnNjmZO2OmsjQerMEfcczbv5RR6ak1zovTdwMG+3S3w5fQHC24N+k9j2r42PiHoO+S0xLVebbIkKOA2nufyoAP9hNVBOfuOZ0+vSKaGHJVmuY8ZooebPmQob1ZwqHEUjBYa6T/AKRQbc3NuhxNXR34zDbLqwEqDaQkEAelBFXDDbiJYvT7Qn9DR38UbErUnDC525sEvORfw8etAhwxA/aJYvQyB+hqx+GOqGwVD+gbeu1BAHKBeyrTlx026v8AHtzy1rSe4yrFctrNz215orVDbLjlshlvxAk+7gEE/LfFLRkyHwp49ahi3V0MxpzQdBUcDzEqpy5WLU5cdZ6r1M8PEjPOrRHWrfs4d8/Q0HO8V7PB1RzTWyz3FCjAfQxHcSlWCQEn419+YThLprQmm494007JgzPEKcKfJ6h6J9DTNxls0zUPMpHtVsmiDLlBpDUk5w2rB323pse0vJh8X7fpHiXd5E6CVJUHPFUlBB7HegK/hFcpl04d2qTcUqEjwgnzdyABg0NvOIB7UQx8MDP/AJRe26JHhW2PFgpCYzTaUtAf4gbUIXOJ/E8T5gD8qCIOGH8xLFhJB+0DA/4NWPwsiGx1DfoH6VWRp+7O2O/w7mwAXYzgcSDvRg2XmU0w5bGDLYeZkJQAtKljvjfFBo8zvCy66ruEK8aciqkTNmnUoG4SBtUlcDtHO6H0BFtMvBklanXSBggq3wfpXI/vI6QO+HB/3FIcyGkTnIcBHbKxvQNd/wCHN+lcx1r1OywVWhhTa1u422BBH507cyXDOXrS2w7hp9sffERfUekedxOMAA14PMjpEY8rp+ixUuabvtv1JZ2bnaJCJEV0bKQex+I+ooG/QLN3i6Pt7N+INwaaSheBjYAAA/Ohc5xAPaeEoKG+NvTaic4h62tmhrS1OvBV4TiilKQcEkCgi43cREcQdTiVEjLjwWwA2heCon1zQRuv3qx6elbdxgvwpHhyWykkVqYI7g0GNqW1LpPpS6T6UGQAR8/Wpr5ceKq9F3xu13Z0myy1BHUT5WCT71Qpg4zXrpII6gcntigNLm5dZkcO4DyFoU2twrQe/UCkEEUFiPz+Fd/P4k3G48PmdL3IKfQwolDq9yAewzXDw4zsmQhppBU4rZIFB//Z" alt="" />
                             <div class="about">
                                 <div class="name">VRChat</div>
                                 <div class="infos">
@@ -1969,7 +1969,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Nov 2023, 13:05:13 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Nov 2023, 14:08:29 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
