@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    803k added, 42.4k removed
+                                    786k added, 35.8k removed
                                 </div>
                             </section>
                             <section>
@@ -1904,7 +1904,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcEBQgB/8QAKRAAAgEDAwMEAgMBAAAAAAAAAQIDBAURAAYSITFBEyJRYQdxFYGRwf/EABkBAAEFAAAAAAAAAAAAAAAAAAEAAgMFBv/EACERAAEDAwQDAAAAAAAAAAAAAAEAAgMEERIFITFxE5Hw/9oADAMBAAIRAxEAPwBSbd23ST22nllpInZ0ByQPOoX8TSw1EqSUaMxJZB6YIx4019lWbhtSnq5Uwq0qyZI+EzoLKQpdICgYQ5Xkx7hunLBIHY6ykda6SSQA8KfEIek2ildVW6KnhjjkqleaXh0CIvQ4H71Sbs2ubFGjtMCJD7EK4YjWg9pWKnntVLVDi1RKjRO6nI9IOTj+z/340L/lzbCw0NyukrmR0pQkaY9sQB64+zpU2sE1IhcduOzdBzBZcl3ClLs9JUlq4aiigSCOFGwKlJYRzdu44jAAHfPkeSLd25ts0X41s98s9tgW7XBnSt9FzzikSPkVkB7nPAZPg51no3v1JYS8s6RCBYZI1PRiFIzj/NXM28Jqy3RUdwuEtRT0wMVOkkSnihGD47EBememD86so6ERtILAb8/do5AhNS479stl2RCliopaaWvlxXVVNzX02IHuXkWy46/A+tDX5K3+bpZpKKKmYGtj9QySNy9mMKFwB8dQR5yNLSmrKaGy1VI8jMZSr4x0BAPQfHfv+tQblcGq2QiNIwqhQFz1AGOv396dHpkXkzLdwb39WRdICDsv/9k=" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>BRIDGE BURNER</div>
@@ -1914,7 +1914,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGBwP/xAAoEAACAQMDAwQCAwAAAAAAAAABAgMEBREABiESMVETIkFhBxSBkdH/xAAYAQACAwAAAAAAAAAAAAAAAAAAAQIEBf/EABsRAAIDAQEBAAAAAAAAAAAAAAABAgMRIRKh/9oADAMBAAIRAxEAPwDAbPa6eS3LPNCX9vVlVyTounttrrSVpVBcLkqV6SPPGgdu3+W3QrDURGWnOMEcMo+vOqA1lPHSCehi9RpskyFT0hvkE+eRx/ugy7XbGT+Co2WmWQL6SMxOMAE8edCXq008FGZYUAGMhlHfTymuYWdZ6+P04HjYx+3uQQDjzyMHXC93Snrba6xplzGS3gHQKM7VNaD2Oitzbdr6urqJ46qNY44II1U+r1hupiSDjpIXtyc/GtQ3E2xW/DNoutts9LBepag08/60riWnfodsupPuyFTuMHJI1hEFZ0GMF3CAYZAeD/H9acyblqKi3RW+rrJp6KlbNNGwHt+DjwME8alxoveWt4Ve467a1Rsy3y0dtenvIlH7E8BcIEIGVYMxDNnnqAA+jpHuatt0tIZbXTTU5mBbDOrqV4HGFXBznjGOeO2p2iqoYIKhScmQcD4HfjGhqmrMiIihQoUKcfOPP3obTEq9Z//Z" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>WEATHERMAN</div>
@@ -1979,7 +1979,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFBgf/xAAtEAACAgEDAgQEBwEAAAAAAAABAgMEEQAFEgYhEzFBkQcUYXEiMzRCUVOB4f/EABcBAQEBAQAAAAAAAAAAAAAAAAUGBAf/xAAlEQABAwMEAQUBAAAAAAAAAAABAgMRAAQhBRIxQVEGEyJCsdH/2gAMAwEAAhEDEQA/AJ3QPRo3UW6lG2tFKYTkwi5GUnOSTkfxqnN0Zch2jdL0m5kfJTSQhPD/ADOLAZzntnOq3wnl8CTqWX+uNH9g51ud1ghvUblBWKJZqvZZl88kjB9xo7WfUl9p2rLtW1Q0ko+owISVdTmf5VKVlKykKIAJwCeJrhj1bCKzNcOFBPl9SPbtpHdKC2gtO4RMsq9mZcFDjsVOqYksPAlnhBhgAoycgk/98tAtxyJfrGUJyPb8BJzj766MklZ2OZGfFLXDSNgKAYJTyVRBMdmM1qfh+Nwkl36DbmpKJ1SKQ2ef7iyjjx+p9dGj6s3itYXnXpF1q/IkEscBCct9zrPdD9Vpt4s26lRbyWvCcqJeBjZDywRg+ul7F2eeZ5HpEFnL9j5E58j/ALqeVpAvL5919pKm1bdpxJ+IB7nkd+MVhYaaccUp0GCcQDBzPQPX7TFYRrt0SynkqkLlfUhux99A3X9fT+50J7U7RFPlGGX55z9c40pvG5JAFt3FECQgkKzZLn0AGnkoLavcXgZpa4umiwGxONmYI4OZJHQr/9k=" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Muse Master</div>
@@ -1989,7 +1989,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYBBP/EACsQAAIBAwMCBQMFAAAAAAAAAAECAwQFEQAGEiExEyJBYZEHMoEUQlGhwf/EABgBAAIDAAAAAAAAAAAAAAAAAAEFAgMG/8QAJBEAAgEEAQQCAwAAAAAAAAAAAQIDABESIQQiMTJBBRNhcaH/2gAMAwEAAhEDEQA/AGtkbTaV7ha7PcBaaa2CONmjgDvUOwOXY5BJyDpGDbd7lpa2VtwzoaeralAMf3gOq8u/T7s4127IqP0tx3rMO8ZR/gOdVle0bRVNPE3DlTGtLAZ83IEH5GkHN+WbhTxwLEhXGIklFY7VWckkEkm/7rSu7xsUQ2A7fyoap21eKalnnl3O4SJGY4iJIwzDJA6hfL399Tu5rJJLX01ivlSblDXQ5WSSDiYWYZVo2Pcg4zjp6HVpHV3qbb1PuMJZ0jljHhRcZDInOQqevqCWyVzjoND7qoKyk3jYZrgaQyynw805fBCADJDdvxpshYGSHlLGGxktisYIZELWGIDArokg97etmcbmRsHNxsVu3qe4Vd23ZTW+SjjWd0hkNQHzlsqvHj7n10lTQ7jkFHK8tuQVVCaZgVclEjyeoHdj7amdpblkMtZdrJRLdILgYpiiTcXp5EOSjjuCD8jS0m4bzK0PibZbjCVaMq5VlYKV5Bv569P91XOizKuKxnoQEsyBriMKQQzgghh7A8fzRId2LJsHtVZaVoqT6e0VPcmFRSUw8J3hyRIROeJXGCRyxoX6jMW3dtkEEHk5IPuRoqu3Dfqq2VNGdvuizT+NyDHy+cPgD8f2dF7u3LO1XS3vcFKlthoA7qjOOU7ftRF7kk6XDhzDmPzZXXq++4EiN5x4rZVa5LMbaHoaAoRxGI5vobr/2Q==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>THE MUSEM@STER</div>
@@ -2011,7 +2011,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Mar 2024, 10:13:17 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Mar 2024, 11:08:19 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
