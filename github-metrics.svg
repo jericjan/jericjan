@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2030" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2050" class="">
     <defs>
         <style/>
     </defs>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    942k added, 120k removed
+                                    655k added, 90.2k removed
                                 </div>
                             </section>
                             <section>
@@ -1386,7 +1386,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 288k out of 145m users</span>
+                                    <span class="gh">ranked 288k out of 144m users</span>
                                 </div>
                                 <div class="text">Published 82 public repositories</div>
                             </div>
@@ -1617,7 +1617,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.80m out of 145m users</span>
+                                    <span class="gh">ranked 2.80m out of 144m users</span>
                                 </div>
                                 <div class="text">Followed by 5 users</div>
                             </div>
@@ -1916,7 +1916,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            578 hours played
+                            579 hours played
                         </div>
                     </section>
                 </div>
@@ -2020,7 +2020,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        8 hours played
+                                        10 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2037,27 +2037,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            2 / 232 achievements unlocked
+                                            4 / 232 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAwj/xAArEAABAwMDAwMFAAMAAAAAAAABAgMEBRESAAYhBxMxIkFhFBUyUXGBweH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwX/xAAmEQABAwMDAgcAAAAAAAAAAAABAgMRAARBEyGhMWEFEiJRcdHw/9oADAMBAAIRAxEAPwBc6aypEfqpt0zJUCM8suvlcxA7KnSAEoHN0qxJCeeCfc3GlHrbt6n7W6g1KFC7cpKIzbmCPSG3Fkk5AeSBa/yq/HjRTa06lPUiU9X5rrc4SlSi3YkLOISC2kpIviCkj/VrC6AKRWrSKvSZUuapxxJmN1NUdASDwCA2rnm1wef0PejrwCi4rNIsrR2QhCZgfuvtW3QiaaTvluX9OlBep7wIUSBiVJGY+ODx8HXR1XmT4sOmTnH4ocWyLttuZYvHHhJtZaMciVfwWB1Ets0+I1uhtnbFH7NVcTgmROqK5UdxNrqRbtJufTbzptb2ru3b8CZUKtMpTSHmXZTSH5H1LisRkUtJSRYWt4JAuODqBu1CdOtBTKWlpD3p33G24pPh9L6vU1MRPtjK/uSViOtyoJA9F8ighvz7XIPxqg9Mts13aMCTSVltcFLi3UYSg4W3OAQFBKQpKrebcEe4PFTp7DtZmbcq7TIZbjoUnFoAJRyQR8cW8aT01eO++47IW03JRdLTik5YewNvcfGq35DTGsziOZ+qHoJF03bKyFT2IMUP3TU6jSVxZc9tSqUi2aUkuLW8fxBSCPSkAk8m5P6GhjW/o8xpumxoOEZlrtNpbp4CWk2HpbIVdJsLWSPHn96G9YKzGi7UQ+12pEoymQ6tCMc/y5tzbx/3UrTvZplmQhiGXnH7dwPBOA/E+LG/I/n+RolmRcNFxwCT8845oXiFs43ceVtRCYwR1nuK/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcDBQgE/8QAMxAAAQMCBAMFBQkAAAAAAAAAAQIDBAURAAYTIRIxUQciMkFhFBUWcaEjJDNDkZKx0eH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFAwEC/8QAHhEAAgIBBQEAAAAAAAAAAAAAAQIAAxESEyFB0SP/2gAMAwEAAhEDEQA/AKuMyptDpHMgDFjl2FFXPYequq3C1EgucA4TvyJJG3yvg1nQaDlo6Sx7wnnmHPw2/VQH8bnCY7V67Om1FqA04XE8adZSNkAXFm0gbAdbf3gx/srKDpz35HyyqAYwszRpbaIyI6XfczSfuykgaZvzVcEjiPmTv5bYoZjKllCjuSnBzk2oP00rjSSn2Fw3s54Un19D/uCmTlSkVpCnIyVRH0nhUEDwnopPL9OeJ7ppYB+QO/ZusAYaJLtGzKmgUw6SgqoybpZTzI6rPy+pwt59HnZey/Spsp19E+fNSpaVKPcQRcAjqb3OOz4frueZUmshxlgFfC1qqUAAOQTYHYdeuI61lmrUWmxE1iamWt6oNqbKXVL4bA38Q25jCQUYwYdbaW56kNTzTXNCoKNVl3bqSmUfaeFNlbD02GNC9kObFZlocVaHUt1ZhOj3j3XCPy1eh5pPle2M0VSOfZJ9hcqq6rftXgi7P6jLynX2hPafjRZVkOaiSi1j3Vi/Q/QnHFlYIxKU254M/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>The Gear of All Gears</div>
+                                                <div>ON AIR</div>
                                                 <div class="unlocked">22 Sept 2024</div>
                                             </div>
-                                            <div class="description">Acquired 10 Gears.</div>
+                                            <div class="description">Played AIR for the first time.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcBAgMEBv/EADAQAAEDAwMACAQHAAAAAAAAAAECAwQFBhEAEiEHExQiMUFRcSNSkaElQkNhcoGx/8QAFwEBAQEBAAAAAAAAAAAAAAAABAYABf/EACURAAEDAgUEAwAAAAAAAAAAAAECAxEEIQAFEjFRQYGhsSJxkf/aAAwDAQACEQMRAD8ANUgVSpVBx1mil+ksMFztbsRZPWbgNragcq7oIO0eZzqlDt2l3FeZFRckrMVKVBhtkESA2o7kqJPd8sjzBOlzSapVpEF99mrwYyWE9YWlKKVHPygHk6Y3RhUt9suSJbyEq7S6z1jKFYUnA47oJx9tb40rindZVNoF49YMyhVAlpb7OgAaZFyZAO3YnAXpGtql0C5oaYSZi25MtC3oW4MbG1kkNpcCh44PjjAAyda10xaJHt+c7T6HU40pDZKHl1pKw2fUpDxKvbB0f6Vkt1W1mW2nSsqmMtpWoqbwe9gZUBgDPtpTy7WksMSnH3fhsY3HtYIc/h8w9tLZZTWoU5BB2EwL/h55x3qbOKFSU61EGbAmJ7TfHX0ii3NTaXMit0qhyGlNhC3nQpSmR4BQUBhJPr686vTLgjWjHNLrrsqNUFOrlYp6QUbF4AHPH5fT/dPGCg0yO7EfjPrUtal4abWtLgUAMZHGccc4x7aQ/Sa4zRL0kRZ7pbcXBjEBA3JON+cqHIx9/ppOX1beaPqYUNriDvFuD4GJJGXaw2X1SFAlWkXBtHu/12xnqVxRLsjil0R2TInh1Er8RSEt7G85BxxjkcY50Pct2uSEyW0RbfSuSQVKaUAoEfLx3f6xqLDearN2x41PdK3UQ5Cj1icISctkcnkg45H08Tpnx4FakSZSZUiU6066l1SJBAS3tOQEq/UPgAocBP78aRV06aV5KEJmb3Ox8ccYrspyWhLEkkQepg9Oke8f/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIBQT/xAAtEAABAwIEAwYHAAAAAAAAAAABAgMEAAUGBxEhEjFhCEFCUaGzFiIjMnJzkf/EABgBAAMBAQAAAAAAAAAAAAAAAAQFBgMH/8QAKBEAAQIEBAUFAAAAAAAAAAAAAQIDAAQFESExQVESE2Fx8AYUI5Gh/9oADAMBAAIRAxEAPwACo1yzs1huMqfNxVNTFttvbS6oKWEJcJJHCTz7uQ3NdVsykxbOCSuE1DQfFJeSn0Gp9KHMf4S+GL7Dsl0kMvyJDCJSVNAgJ+cp0BPeOH1qlQpt9XLCu9sTbWOqT1QZfaVLSzwDisBjrtcZXyh9doRhtjJa9tR0JbaQmOlCEjQJAeb0AHdUo2W6F5KY8pX1RshZ8XQ9arTtDjXJ6+jox7yKjOOwVKG1H0JtD9PU2vPiNjtgIhKNMvyr/NaOeY0PmhhpYqzpx8t9TTU2LAYX9hiRkgkfkviINLm4Xq6366szLzcJU6UClKXX3CpSQFa6DyGpOw86IJDLchlTTyeJJ/oPmOtYare5FkDxAHVKtOdMqe+wEcCG0pXuABfzWGtQ9Oe1d5jOKD+dO2x++tg5/J48pL0n9HvIqSIkXcbUVXjGOJ8RMLYvF3lSI6yCpnZDZ0Oo1SkAHes+PHAHKsqVJLkmS24QSTfDsIMo1IW2n5M4/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Everything about Notes</div>
+                                                <div>Maybe Next Time..</div>
                                                 <div class="unlocked">22 Sept 2024</div>
                                             </div>
-                                            <div class="description">Acquired 10 Notes.</div>
+                                            <div class="description">Cleared with a single BREAK.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+2 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2068,7 +2073,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Sept 2024, 08:42:48 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Sept 2024, 10:16:07 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
