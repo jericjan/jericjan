@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2102" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2089" class="">
     <defs>
         <style/>
     </defs>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    79.8k added, 18.2k removed
+                                    470k added, 19.5k removed
                                 </div>
                             </section>
                             <section>
@@ -1775,7 +1775,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.39m out of 221m repositories</span>
+                                    <span class="gh">ranked 5.39m out of 219m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2015,15 +2015,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,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" alt="" />
+                            <img src="data:image/jpg;base64,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" alt="" />
                             <div class="about">
-                                <div class="name">DJMAX RESPECT V</div>
+                                <div class="name">Muse Dash</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action, Casual, Sports
+                                        Action, Casual, Indie
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2031,7 +2031,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        22 hours played
+                                        57 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2048,32 +2048,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            9 / 235 achievements unlocked
+                                            39 / 39 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCBQgD/8QAKhAAAQQBBAEEAgEFAAAAAAAAAQIDBAURAAYSITEHE0FRFBUiMkJxkdH/xAAYAQEAAwEAAAAAAAAAAAAAAAAFAQIEBv/EAB8RAAICAgIDAQAAAAAAAAAAAAECABEDBQQSExQhUf/aAAwDAQACEQMRAD8A7+l0hbG+akNtsKLrwbJdb5lKfJKfpXWM/AJ0b7TiyJbViIrTjxZ32666Gxng2D2o/QGdBnp/QT5klq1iWMWsDElDDEiQj3OT6+kpCfk9jz96ntDZr0mdev7rurVBl3qql5mqf9lL757U6v4499DH/NGaVWGA9v35Oa0odcA7D4SahNty3pnkWbrl1WRkV+75Fi7774QSzxWAUD+7JPWPODpCW90HN2W1lCyY0uY88ELGOSFLJGR8HB04tg7Joar3v2FZFuHl7lcpErmo5BtlCVHklPjkePZ0ld1xGa/dVzDip4R4855lpOc8UpcIA/0BpnxpkBRhYM2cxS+MBwKj59PHYq9oIaenwYq4l3Hnu/kvpawyjiVKGfPg6rqP1A2sX7oTZsxtSNyruoqWIinTKbAAAGP6c4PnHWNS2JR00qian3FXGtFPW8euS3JGUNJWUgrA+Vfy+frV3seBH2u7ZfpG0xlObw/WqVgKV+MACGsnJx2dH6y/VXtI13f1sd0BBrYG8ba4RcCo2bIuHE3DtzHcRJDTcd1wHilwnpRAJ6B7z/g6Sts/Kk285+wSUzXZDi30lPEpcKiVDHxg561pva8VaQ6iAwsNt76kKcDKThKAlfZx4SOvPXjWdN6rS7vW/caUFoXYyFJUOwR7quxpNCLNS3KBCLZuf//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFBgf/xAAtEAACAgEDAgQEBwEAAAAAAAABAgMEEQAFEgYhEzFBkQcUYXEiMzRCUVOB4f/EABcBAQEBAQAAAAAAAAAAAAAAAAUGBAf/xAAlEQABAwMEAQUBAAAAAAAAAAABAgMRAAQhBRIxQVEGEyJCsdH/2gAMAwEAAhEDEQA/AJ3QPRo3UW6lG2tFKYTkwi5GUnOSTkfxqnN0Zch2jdL0m5kfJTSQhPD/ADOLAZzntnOq3wnl8CTqWX+uNH9g51ud1ghvUblBWKJZqvZZl88kjB9xo7WfUl9p2rLtW1Q0ko+owISVdTmf5VKVlKykKIAJwCeJrhj1bCKzNcOFBPl9SPbtpHdKC2gtO4RMsq9mZcFDjsVOqYksPAlnhBhgAoycgk/98tAtxyJfrGUJyPb8BJzj766MklZ2OZGfFLXDSNgKAYJTyVRBMdmM1qfh+Nwkl36DbmpKJ1SKQ2ef7iyjjx+p9dGj6s3itYXnXpF1q/IkEscBCct9zrPdD9Vpt4s26lRbyWvCcqJeBjZDywRg+ul7F2eeZ5HpEFnL9j5E58j/ALqeVpAvL5919pKm1bdpxJ+IB7nkd+MVhYaaccUp0GCcQDBzPQPX7TFYRrt0SynkqkLlfUhux99A3X9fT+50J7U7RFPlGGX55z9c40pvG5JAFt3FECQgkKzZLn0AGnkoLavcXgZpa4umiwGxONmYI4OZJHQr/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Each Single Point Counts</div>
-                                                <div class="unlocked">1 Oct 2024</div>
+                                                <div>Muse Master</div>
+                                                <div class="unlocked">1 Jan 2024</div>
                                             </div>
-                                            <div class="description">Accumulated 100,000,000 points.</div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAwT/xAApEAACAQIFAwQCAwAAAAAAAAABAgMEEQAFBhIhMUFREyIycQdhYoHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwUGBP/EACgRAAECBQIFBQEAAAAAAAAAAAECAwAEBREhBjEHIkGBkRIyUVKhwf/aAAwDAQACEQMRAD8A7KypgoYRJUNYHhVHJP1jKlzuilp55CxjMS7tj2DPzb2+TzgFqt2ObNG19saKFH2L4EjFKt5ROIqaDw+kJ6mNTM0pRW4ArBsADkDxv+WhhXUtR6wIgh9K/wAOb2+/8xQBQb8mpc1pnWagqR7XHVG7o47Ec4kS4Mafps1o82glT14qKoW8oV/Y67bjcPu3XGR94tgG+5gmsdD0sU5b8qkNLbST15gBexud8b7wT1nlbSKldApYou2UDx2OFAYpzy8dcBGyHLpsyilneaGlLXmSAAkj+N+AcDEykHmic0NxEYkJYU6qEhKPaq18fUgZx0PY2teMvx/pSfUuYb5EZctpyDNJb5HqEH7PfwP6w3amlpkrGgpApWLhmXpfwPrBXNNU0VNk0OU6Wpmo6VU2s5FmHkD9nu3XCha45IwrfmC4v1HYbQh1trk1YmXljZv+fHfr4j//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYBBP/EACsQAAIBAwMCBQMFAAAAAAAAAAECAwQFEQAGEiExEyJBYZEHMoEUQlGhwf/EABgBAAIDAAAAAAAAAAAAAAAAAAEFAgMG/8QAJBEAAgEEAQQCAwAAAAAAAAAAAQIDABESIQQiMTJBBRNhcaH/2gAMAwEAAhEDEQA/AGtkbTaV7ha7PcBaaa2CONmjgDvUOwOXY5BJyDpGDbd7lpa2VtwzoaeralAMf3gOq8u/T7s4127IqP0tx3rMO8ZR/gOdVle0bRVNPE3DlTGtLAZ83IEH5GkHN+WbhTxwLEhXGIklFY7VWckkEkm/7rSu7xsUQ2A7fyoap21eKalnnl3O4SJGY4iJIwzDJA6hfL399Tu5rJJLX01ivlSblDXQ5WSSDiYWYZVo2Pcg4zjp6HVpHV3qbb1PuMJZ0jljHhRcZDInOQqevqCWyVzjoND7qoKyk3jYZrgaQyynw805fBCADJDdvxpshYGSHlLGGxktisYIZELWGIDArokg97etmcbmRsHNxsVu3qe4Vd23ZTW+SjjWd0hkNQHzlsqvHj7n10lTQ7jkFHK8tuQVVCaZgVclEjyeoHdj7amdpblkMtZdrJRLdILgYpiiTcXp5EOSjjuCD8jS0m4bzK0PibZbjCVaMq5VlYKV5Bv569P91XOizKuKxnoQEsyBriMKQQzgghh7A8fzRId2LJsHtVZaVoqT6e0VPcmFRSUw8J3hyRIROeJXGCRyxoX6jMW3dtkEEHk5IPuRoqu3Dfqq2VNGdvuizT+NyDHy+cPgD8f2dF7u3LO1XS3vcFKlthoA7qjOOU7ftRF7kk6XDhzDmPzZXXq++4EiN5x4rZVa5LMbaHoaAoRxGI5vobr/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Heart Singal</div>
-                                                <div class="unlocked">1 Oct 2024</div>
+                                                <div>THE MUSEM@STER</div>
+                                                <div class="unlocked">1 Jan 2024</div>
                                             </div>
-                                            <div class="description">Used Heart Sticker in AIR.</div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+7 others...</div>
+                                            <div class="description ellipsis">+37 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2084,7 +2084,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Oct 2024, 15:09:29 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Oct 2024, 16:18:50 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
