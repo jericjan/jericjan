@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1934" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2023" class="">
     <defs>
         <style/>
     </defs>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    446k added, 20.2k removed
+                                    489k added, 20k removed
                                 </div>
                             </section>
                             <section>
@@ -1775,7 +1775,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.40m out of 221m repositories</span>
+                                    <span class="gh">ranked 5.40m out of 223m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1927,7 +1927,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            610 hours played
+                            611 hours played
                         </div>
                     </section>
                 </div>
@@ -2015,15 +2015,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgMAAwEAAAAAAAAAAAAABQYEBwgAAgMB/8QALhAAAQMDAwMDBAEFAQAAAAAAAQIDBAAFEQYSIQcTMSJBURRCYXGBCBUjMqHB/8QAGQEAAwEBAQAAAAAAAAAAAAAAAwQFAQIG/8QAJhEAAgEEAQQABwAAAAAAAAAAAQIAAwQRIRITIjFBFCMyUXGB0f/aAAwDAQACEQMRAD8AK6YsTbUXJzjPzRi6WtiJF7rq+VcJGaj2eepsoQEZaJ81y7967XhqA3nc3hePwaYUYGTNp0OpUx6gy7QG2WGW0glxw581Fm2gKeSlOSEJCjRCXKLszaoctej9YqXCdjrVPcS4FFtkFQo30mH+D+WHMXItoQ4Xic4Ar4iChStoztPGak6fvESQq4jeNqE5/wC0DnX5H18ZiKQQXMGmqRL+orWseBJk6FEbdW40c5QeaiXO17GnFcg4rque5btUqZKcpW2kn+aJTrm2/GWpwBOeDW1KfbmSXBFUFNak+JcG49nS6OXFqISKPWeczbtVWyfIUktPEIX+OKSEbWoKSee2oqApg0dbW9Qszo/dzMSjcynPg1Fq1OJ4Gest6alC/rcctZaaTAuiJ9oQXUSDudb84SfcUj2ayXW36ivjJgvOxJUZPbV7bickU1s3XV+mwiK7bFz2D6QoJyU/smn3SMibIt/fuUUNOrJwgp5FT6N81RypGPzDOpo094I++Zmy1dOdXKh3SQmG8yp0qCAR7ZrrYNDy39SWtmYs7GHNzyRkFXHzWqrqJD8FxMUhKwPQke5qjNWar1slS7Ra9NKYfdVs+qU0Dn8g0y989EBQMkzhS1wSdD9yN1P0snSmipt0bX3rg9lKVediQeKqmDqNUqG1vxykBY/9q2+uyntO9IbdbZ73duEsnuFRyQSMkVnxspajx0p9JUkDPycVSs7p3Hd4I8RKtbU3XJGT6MstD5lHuoUe0n7fmiehNQN6e1nCfcJDTiwleT4FLMOSmO0tTR3II81EfjyrhbXZjKD9Ok+p0D/XFS7rkGGBky5a0l6ZVtKdTZbs8LfQkICm3UhaVHng16uhxWNg5HnHxVb9D9Zt6rsCbfMA/uMJOAfdSRwKsK4Sm4ra0FCyQPINcKeQzJVWkUfp42JJAWBjwo0NmSlG6RIzaEEFXJIyR/NCLPqthy6Kty2XXXlfeDwkVE6o6sg6Lsjkl1SVXV5JTGa9810h5eJhoOrhHXZ8f2Z9/qY1KNR60TAgqK4kAAkg8bvBquG3EOxkcb1DhtI8lVezyJM65uKbZckTJThcUE8k55xRTR9lMu5T5M9JYjW5AdweMqzginbcHgWbULeotE9JT4xLua6bWufZ3xbytM0cs5VwT+qa4lriSrI9HYitxA4yI0qItI3Hb96fjJoNpPUDC2AUOcpOdwphvep7NAhG5XRYQGhkFJxuP5oBG8mKJcOQEJzuI2hLWjpRrsM3mU0uNdiEMLTx2/cZq+1gdshexYXylfkEHxWINV6sk6w1E/cJrxUgHYy2g42pHgj80z2bq5e9IWwMiUmagjCUrG5Sf5NKK4DFQNSpdW71FFUt3Y3NNmTAtzqxbmm5Vyc4SlKeQaoXrwliZNttgRJ+u1ZLe9WxXpZQeQMexpRvHXnUMyE6zCYZjOPDCne2Nw/R9qq1N0nIuabn9S4u5JXvS8tRJzTC6iqK22zL+s1guWjZDELR8dt67z0Bp5cpHdDRxyRnxR9vpw5atPShd5SHbo4pTv8AjG1JUTkgj3FTul+vLNqG2ImuKS3e20Btxsnk4+4fuieqNQNpjPFboCiPu8021XPiTqjNsT//2Q==" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgMAAwEAAAAAAAAAAAAABQcDBAYAAggB/8QALBAAAgEDAwIFBAIDAAAAAAAAAQIDAAQRBQYhEkEHEyIxURQyYXEzQkNiwf/EABoBAAIDAQEAAAAAAAAAAAAAAAECAwQFBgD/xAAgEQACAgEEAwEAAAAAAAAAAAAAAQIDERIhMUEEE1Fx/9oADAMBAAIRAxEAPwBbRXSTAqTgipo3eNsryBzQNZUJ6ozzU8V5LF6ZPY11krvpxUqPhp7G7B4PCmi+m3HXIQ5GTwKyEd7G+APSvz+aO7ZZZ72FS2SWwKX3FOXi5fAU1aZrWfDdxQWa6UoSPej+90WG6QPx6RWNeWNc88VJCwZeKk84Jnm80emq0rKP5DXR5c/bxVW4fqHvmjKxYJ4UtMApLGxxG+KnFw4OD6h81FZWo1J+i2jIftRePbGrLhDbsQfY4rLdhtyqRUtpkdwDnGe1MnwysEudVh4Plq2QD75oNomwdTuZEZrV8d8U6NlbUOiAOxWKMAGWZxkY+B8GhHVKX4LGhMyXi5pskciXMa4GACMUoZbhUkPUeOx/Neptz6fZ7ktvO08i4hYeUVX3Qj+xpK7i8O7+3lleCEyr/XpFTrK52Fsq0vGBey3GRlTUJmJGSwFGbjbepxZU27A/qg2oadc2f88bCi54EVeQPpWrS6e/VEArfJrWWXiBqMYAcxso/wBaXpY+x9X6r6rdPKg1nObXBputPkd2i+Kd7bkYaNwPdQtNvaO84Nx2/wBLcIWhlGHjU4ZPya8diRgwdSQ3cCmd4Rbga11y3ilbKuwHUP8AtNXe1JJ7iuGneJ6K1e5sNj2D29m+P8ru5yGB7D80odxeLVy0zR2aqsf5Gc1zx61yf6qGCFi0ZUHI/XekRLMzuT1k881Ylc2228vt9i6Naz10hhXm/r+ZiV6Pf4rP6vuK61BSJSoP6rNmQ47iow+Txk1HKxs8qkiAHqPBrsxKmoVjlP2qRUog9OZHAqk3uXHE6mTpPJxmtBtG6aLVbYpk4btQEmBCpPr/AFV3TtS+luUkjjxg96EXhgcdjaeI97cXOsK3PT5SjBrFdEb562CtVjcOsSapc+YXAAUCg5Y9WTkj5qzFoWMMIvSiOEjOWqNrhT9i4qBZGUc+pa4QsnKMOr4pZS2DpP/Z" alt="" />
                             <div class="about">
-                                <div class="name">GRIS</div>
+                                <div class="name">MELTY BLOOD: TYPE LUMINA</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Adventure, Indie
+                                        Action
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2048,7 +2048,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            0 / 17 achievements unlocked
+                                            8 / 40 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQYHAAP/xAArEAABAwIEBgAHAQAAAAAAAAABAgMEBREABhIhExQiMUFRBzJhcYGRoRX/xAAYAQACAwAAAAAAAAAAAAAAAAAAAQMEBf/EAB0RAQADAAIDAQAAAAAAAAAAAAEAAhEDIRIiMUH/2gAMAwEAAhEDEQA/AM7qj8puU8sSHUspWQQD8o9/bBf+xIalPIVLf4aR0kG9yO/7OwwlVXFceSFSkMICyPX7J7/jHZBplGrWc6ZSqq4pMBxSlOvNko2CekEnsnVa5t+cT9BqQzXCHc/Vg0lyRzLd79IcBPvx9MLw5Ehl6MeM46lw6VpWq+1xYj13/mKL4x5RpGRodJgUee69LkkmQy+rU6sJAsra2hGre1uokeE4lKe84mPD5hlWpbiEIcSLg2Nt/t/cOnuPiRW6+yhoeW38xVx1LbTTUdDpS5IcaugbDydtVr28XtjSqlkCDTgWsuwmltrAWqK6s6tttaHPmSfe9jftgun5xXSctog0uMlqUFErdX2JJ3NvJOPHKOYpDdalP1WRrQ+k9RVbT9AfW+NCnhahbQw+SvqOdwyRSIUfMXLVGnOQnJjaFPPyHNZUAo6lahfchITsBbyBiXlUuTDlLU1MEmIl4aSbBRTqFrjGqVJygPyWXxVktuoIstDeqwG4uO1wfHnB2bqrSqpl/leK05UIz4LDrLRbC0arkW7Wt49jDeTjrxtR/IIttZ//2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>I’ll Take You On Any Time!</div>
+                                                <div class="unlocked">9 Oct 2024</div>
+                                            </div>
+                                            <div class="description"></div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAYHAQUI/8QAKxAAAQMCBQMDBAMAAAAAAAAAAQIDBAURAAYSITEHMkETUWEiQnGBFrHw/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQMEAAL/xAAdEQADAQACAwEAAAAAAAAAAAABAgMABBITITER/9oADAMBAAIRAxEAPwAzp+mmVStRaZUqa1JS6opLgUpK0gAm+3dxa1sUaJlHLy50ho0ZDKG1lLeqSVuOAfdo+0X28nEhyxUqTR6rEqQkqTLjuKDqHVJsSdiEi4IGkne+/wAYf/5bUZUkQadT0yhIv6C2opIT3KSFgcBSb238fvCObR0A8Q+6ycQ4/djPuTKe1AQ9S3G49nNKmko+tW3F73/RxK50dMN1Ko0hxxOoJUl07m9hcWJth/qT1eE1beYWXY0hpehtS1JWHW7XBSRyL3F/cYR8z0xTU1UuG2TAWtte7gUpvUobHjz8cEY74Fi6tO3sjG0lVARiemuSHcxZ0fl1RBZoUUqedcIt6p4SkH83PntOH9w1CRXF1jJsSNCp0PTDM7SQmWm4F1Nk7pFx7Ha4OAcjZkgUXJ1QhPyHTLfkFSkqURZtRA0oPgBOrjyThqY6gUdDbLMeMw22yfpQlwBKfYp2/vDTMUA7aTyEfNps25czdmAuzojkMqSgIQl9SmEaRfsvcnm91WuTycQuZIrNMzCql1gONSw8lDzajwCQdvjgi3g46FrPUmK04w7FHqNJWkONkaiq552408/4Yl/WpmnV3NdCzBQpIefCksTWkgg6U9i+Pa6T+BgrNUB67GrN6bf/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Story Buff</div>
+                                                <div class="unlocked">9 Oct 2024</div>
+                                            </div>
+                                            <div class="description">Clear story mode with any character.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+6 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2059,7 +2084,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Oct 2024, 19:08:03 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Oct 2024, 20:15:42 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
