@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    501k added, 21.7k removed
+                                    476k added, 18.9k removed
                                 </div>
                             </section>
                             <section>
@@ -1754,7 +1754,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.42m out of 217m repositories</span>
+                                    <span class="gh">ranked 5.42m out of 214m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1906,7 +1906,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            649 hours played
+                            650 hours played
                         </div>
                     </section>
                 </div>
@@ -2010,7 +2010,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        43 hours played
+                                        44 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2027,7 +2027,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            19 / 235 achievements unlocked
+                                            20 / 235 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcBAgME/8QAKhAAAgIABAUDBAMAAAAAAAAAAQIDBAAFBhESITFBYRMiUQcVM9FyorH/xAAZAQACAwEAAAAAAAAAAAAAAAAEBQEDBgf/xAAiEQABAwQBBQEAAAAAAAAAAAABAgMEABESMSEFFEFR8LH/2gAMAwEAAhEDEQA/ACoeWeQJAjSSEEhUG5O3M8sTk+V3s+uvXoKAI+csrnZU8fyONtGXIauo69m3PDWqQBmlnmcIi7qQBxHl1OGLZ1xo3LC5salyKFmPE3DajYk/J4d9zjSPv9ubEbHFc/gdKC0hZSTS7j0vnLZ19taq4Y+4TH8YX5LDl+8ArimvPJExBKnqO+GhD9W9FWb9ejl2ctmN2w4jigpVZZWdj2HtAwudZ1Jctz+zBLsyg7CRdtie4OxOx8YmHJMl7Gwta/5TB7poaRljbmhrShRIksYnqyjhmhYcQYHryP8AnfC21ZoKWvZis6djNmnZcKkSH3IxOwG57b/PTDAZ8Vgsegzo6epVl9ssR7+R5wzehNym8HN+DRMF1yPwNeqNaQ09S+m2VSmOxDPqmeLa7mMZDJQQj8MJ7ueW7D9DAS5cayw4QY4F34I9/wCzfJOM7tk2CscaenVi5RRDt5PnHG8nLri+HBbiIwRs7Pv77zRi85CslV//2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>The Dark Dragon Awakens</div>
+                                                <div class="unlocked">18 Oct 2024</div>
+                                            </div>
+                                            <div class="description">Promoted to SILVER in Ladder Match.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -2041,18 +2051,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAj/xAAtEAACAQMCBQEIAwEAAAAAAAABAgMEBREAIQYSEzFRBxQiMkFSYYGRFnHB0f/EABYBAQEBAAAAAAAAAAAAAAAAAAUEA//EACgRAAEDAwEGBwAAAAAAAAAAAAECAwQAESEFEiIxQVGhE2GBwdHh8P/aAAwDAQACEQMRAD8AUYIzUSLEmOdyFUH5knGNH7b6UVVyuEq3NJrTEi551RX6jHtyjOMd876FotNS19LUyNNEI3WSQB8qACDuD2wNWK8cZ2ezIrXEVMcki9SKNlVA6+eYnl/WdD6rMntqS1ASCVA5JGLEcjxppMZIJ8TlSpYvSG10MFbHd6hq+SRisckWYgsePG/vE775xgY1Dqu3Pbal6c/CCSp+oZ2OujOE+NjxVdrjSUtClLSU9MHScSdVmZmI745dsdhnvqPVlKLtbEkGOuoJU/fsR+dYaLLmIlvpnOBR3cC9k3BOL/sVcxARKaUlsbycjz6+1Zri5MUhc5YxEsT5IJ/3W7084ctfGlvray4Csq7pa4FDUcUwj9ojUe63NgkHA5Tj5qPOhNfIJPaHX4SrYz4xtojwvcl4LvXBt9pXIWqt5Nwi+TQhiGb9KD/ajzpWQqwQL2Pxkj1AqbUGth0E5H2BTZ6Lml/m/Egt1ItFSeyw9OBZGkC7/U25J77+dLVirDKJ4p1VyjkggcpwT5H30+cDU1NS+rvGKUCBKWSmgnjUMGAEmH2I2x72R9tTG3N0LmSfhZmQ/k/90TFAXqEu3Rs9jSWiL2FgjhcjvX//2Q==" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Time To Show Up</div>
-                                                <div class="unlocked">15 Oct 2024</div>
-                                            </div>
-                                            <div class="description">Played a Ladder Match for the first time.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+17 others...</div>
+                                            <div class="description ellipsis">+18 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2063,7 +2063,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Oct 2024, 20:16:51 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Oct 2024, 21:17:54 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
