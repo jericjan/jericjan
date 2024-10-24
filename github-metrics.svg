@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    481k added, 19.5k removed
+                                    147k added, 84.4k removed
                                 </div>
                             </section>
                             <section>
@@ -1783,7 +1783,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.42m out of 225m repositories</span>
+                                    <span class="gh">ranked 5.42m out of 224m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1935,7 +1935,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            674 hours played
+                            675 hours played
                         </div>
                     </section>
                 </div>
@@ -2039,7 +2039,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        21 hours played
+                                        22 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2047,7 +2047,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 22 Oct 2024
+                                        Last played on 24 Oct 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -2056,32 +2056,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            16 / 42 achievements unlocked
+                                            18 / 42 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCBAUI/8QAKxAAAQMDBAECBQUAAAAAAAAAAQIDBAUGEQASITFBByITFFFxgRUyQlJh/8QAFgEBAQEAAAAAAAAAAAAAAAAABAID/8QAHxEAAQQBBQEAAAAAAAAAAAAAAQACAxEhEyIxQWHw/9oADAMBAAIRAxEAPwC/XrwlprNZQmvTEutzZCA38+ppLaUrwkJSBzgZ4yOtQk3K6vC2rmqrKfiuISozyv4jaelkD9uTnj7aXN1Klu1apv0xxa4syS86UpCSpQKySBxuweOAdHPpJb8q6lzH58hv5SMjap5tOSVK/gBxyQOSR1jR2PkduBFfeLaoiO7Vd2+qjHWttqt1KWSMBSZSyBrRtS66m7clHP6/UJDapbaFsOSlHI3AEEE8jnRBHtui21ech6YptbE6LuZUpQTt2qSd3jarjsfTx1oV9TLggs+o9viDKbU1FebW6GUbUIBcST7ulE4JOOvOk6hOEcx1m1k2FZ786n0oT4Umow5sYPFMZRG0EgZWo4245xz3p+UGKaTbMghpDbu5bxSg+1IA9qc+cJSBnSqsa9UW1SaDDlFt+I6gx32clLsZSTgKUP6nkc9EfTo1ui8aZWLXrMCmSkMy32hFZDmEpG/2leQcEJySf8GixvZWCtREWlU7Rjxruo6JtWdMx1mbLYSjAGEIeVsBPgAYH40sfXsQKDUZFMo6gEKjNlTYVu+G4dxOCeQMFPHgk6ZUI21YlpyGaDVGJdRajuLD7zwcK3cE7tgOCSfGuepzcmsSJE6ep1159RSlBBK1qJwCfuefwNU+VoHKuNhK/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYDBAIHCP/EACwQAAIBAwMDAgQHAAAAAAAAAAECAwQFEQAGEgchMVHRFCJBkxMWRlZhgaH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwQF/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAAwQxERNREv/aAAwDAQACEQMRAD8Ai3Tve60u476h3JcIDHWSCGBZH48OZGBg4AAHjQNuot5H6juP3399IW/bssm7LjPGeUc0rOMfUFmOltq7kRgnB8afUToROxViOZt09SL1+5Lj99/fTX0/3lcLjuS2L+ZLhWKJEaaB3cKMkDBycMPOudTW8/lJx6H3079Iq/4XcLzzHikYV2J+gDZOi1ZA5lKCXsVSdmL9quSWu/Wu4VFIKxYY4nMTnsx9D/ujtz3pRVu26m1x2X4eWc8jIrLhW/E5YGADjBI75OhkFGjqolIR0UIVbsQRq5DaI3mQ/KVJz513aMZDWpbcw3tYljL8nfkpWHcMFomEsNsSWdZ5pYi6JhA6hQB2zkYP8DJwBrO3VRq6nclYsSwmeCaVQnbiCCQP60Rmt0QiIkMYPHJ7gYOfA1HSQQU8NYiOrPNA8ahe5YkYAx6k6GVQnSxXcphs7XoCp35P/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>50% CG Achievement</div>
-                                                <div class="unlocked">22 Oct 2024</div>
+                                                <div>Message of Oblivion</div>
+                                                <div class="unlocked">24 Oct 2024</div>
                                             </div>
-                                            <div class="description">Unlocked 50% of CGs.</div>
+                                            <div class="description">[Phone Trigger] Cleared someone's mail without reading it.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQYHAQQI/8QAKhAAAQMCBQQBBAMAAAAAAAAAAQIDBAURAAYSITEHE0FRYRQiMmJxgaH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQT/xAAeEQACAgIDAQEAAAAAAAAAAAABAgAhAxEEEkETUf/aAAwDAQACEQMRAD8APVqoT28zVZcqtVVphycpplCJa0pSki4sAbAeMaMZNekMwS7XK02pY0KcRLd0rsbahvze4I/vCvmqqKqT7YQsJL01Sg4eADfST8WIwX6fIcmrKnpMhVVjyAhLLnedDRJudSQQhIBvubcecYXY9mv2bVQaA15KPVKdKptFXNmVirgNthSw1JddWTbeyQcAMuS6i9UoksTMwtRfqmylM59Q1i9lAoKjt8H2cOwj1IvPtTWHaiS6oIcVISwx2zxdCd7+Dsf9wqZhYTl2Qt50stpW4mS4loq0NJvYJGo38XvtydsVmNX6IVUXUXH8iP1LpNRMxUc6prVOZckxiL94JbF1J/YJ5Hm3vkHk/MEilVVua+ouJW2EvdrfuNj8XB+yeD/HzisdO865bovTOjtT6tCTIjQ0NuRe6nu6gmxRoO4NxbfEPpMphnMMVsPJRCYfcUFhQ0hCt9O3Ivh8rCwOwp3Jxsm6JqdK0aeipQGpLLiHW3BdK2+FD3iRdeKi1Ip9SajPpLcaMe4pCwbunhNx6AG2JTWq9W4UN+DS6pLapzy1OFhlZSmxKrA234Cdh7xmqGLKyzT4TElOoxUFdzda3Te6SObg/aB84PxyN1GjZHkQyqOx/BP/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQEEBgcIA//EACwQAAEDAwIEBQQDAAAAAAAAAAECAwQFBhEAIRITMUEHFCJRgQhhcZEyQtH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwT/xAAdEQACAwADAQEAAAAAAAAAAAABAgADEhExUSFB/9oADAMBAAIRAxEAPwAfdFx19d1VlLFxVdCfPvIbaalLSEjjICQAdh0Gh9OrV0zZCWWbhrTi1HG01z0+5O+mlutM3Lf9Vjc5Y8y8+4ytG/CeLOft6c4PYkasaw/DaREqT8qpNvR0NZS0Ev8AFzMnvjtj376NlgT5+wit2Y8eyDya/cCWyW7mrJCM5V51wZAPU7/jRCzrlrRuyjeYuOrvNma0hTS5S1IWCdwQTuNcPFiPEo9V8tTmWWGYraXHwsE80n/NvnUQsOah65IsmU8G2o6xIQE7BXAoEgfGT8aSEMmoMsHCkwn9O0pEe5JKpRbJXHTwk/zHq3x9vf41qZyoRY8ZCnXm0JVskqVjOsR29KmUeptustL5rYUlOV8spPfOQR26HV123eb1fpq2au8zT+VgZ5gCnMj+u/p9iR8Y1nvVtaWa00nKlT35Ip9QdwRpc9dPhrSpXEHZBH4wlJ/Wf1phRKOhjwfmTH2k85/myWVEZKAE8Iweozg6XxYp8KQzDk0tyGtDZU2thlQ498EH7jY7+/50+pFTgueFsunOONtTm2lMpaUvKnirJHCnr1OMdtUAzUMyIrsdxyp78n//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Dogma in Event Horizon</div>
-                                                <div class="unlocked">22 Oct 2024</div>
+                                                <div>Irreversible Reboot</div>
+                                                <div class="unlocked">24 Oct 2024</div>
                                             </div>
                                             <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+14 others...</div>
+                                            <div class="description ellipsis">+16 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2092,7 +2092,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Oct 2024, 08:40:16 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Oct 2024, 10:11:39 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
