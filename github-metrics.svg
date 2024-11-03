@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2086" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2080" class="">
     <defs>
         <style/>
     </defs>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    507k added, 116k removed
+                                    380k added, 56.1k removed
                                 </div>
                             </section>
                             <section>
@@ -1767,7 +1767,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.44m out of 226m repositories</span>
+                                    <span class="gh">ranked 5.44m out of 227m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1919,7 +1919,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            709 hours played
+                            710 hours played
                         </div>
                     </section>
                 </div>
@@ -2040,32 +2040,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            34 / 42 achievements unlocked
+                                            36 / 42 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQcIBgP/xAAtEAABBAEDAgUCBwEAAAAAAAABAgMEBREABhIhMQcTQVGBYXEVIiMyUpGiwf/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwQF/8QAIREAAgEEAQUBAAAAAAAAAAAAAQIAAxESIQQiMXGBofD/2gAMAwEAAhEDEQA/AOVavem8vE3ccGv3NbwqyJOe811EhQQw3zIShKQcZOMAfQnThh034dHQ25f27iu3myZq1KWfuTj4GgPhMuG1UWTzK087GbKnuq/kC5hH+SNaWZaRXq1Kw2XmHk8SCD1PtywRn799aAgXvGK7IEH3lFKsIEgQL64akNgg+RMWhxJHsM4J7dCOukbQ7p3XU+JdTW2e4raQhFgy2425KUUOoUsDqCexB7a3NfuZUW5lx0yR+nxwlSsqbwePFXwe/qMe2lVumwx4j0lg+7l5Mplb4444AOJV/wBJ0alMAAxkQsbCFdhb1FZtKAlT45Ba4qyr9qR5PMcvXAKTpv8AglJes5tmp6ctTSWeLlaQnCSo5C0kdSACQc/Q+upGjNTGVSo4ZcCOfIpUMfmGR/eCofOi1XLuq9yJYVC5bE1lYACCpK+nbBHpjoc6hWd7YYmdClwSwLO1vX75uVR4hbP2/X0793RQ4zbqurqmVZDqUIKQkfOCftk6lG8lJnypsphaw62pSV8legOAon0J7Y9Tqh7q/sJ2xS1f7hphKcglLyojwceyU9UJR0AUTgE9c/TU0PsSPPZjJjLeBILhTkBTysZV07hOeIHboffUUD1ukg6MNMtxxoZFhbxP/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIBQL/xAAvEAABAwMDAgMGBwAAAAAAAAABAgMEBQYRABIhQVETIjEHFBVxgZEjJDNhctHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDAv/EABsRAQADAQEBAQAAAAAAAAAAAAEAAhEDMRJR/9oADAMBAAIRAxEAPwA5uZqZNle7x7jq0adUJ5bZbYkqGxAUSo7QRhIQDz8tZNx3E6ioyKfRarUkpaPhmS/KcUd2Odqd2OO5Pr00tIM+ZDn3LesSpMQmIc4xkOuN71v+KpR8NGcjISM57HWNAvyjMu/mGZLjilFallAOST+5+eiz+R2McI06bTq+5GWG7vrMguceea4lQ/iQSAfpo6tCFLiwY/v9fqr9RiPJUtD8hR8Rvd64zhQ5wf8AdLuzrztmdUYgjSEMyd36b34eRj7HTJuKRGixEzHHMBlSVpWOmckjPYgal9Ix1NQZO130lyL7MLDp6gtLEtt+rPu9HHllKUjPdKMffS5cbhNvuNqS/wCKk7c8cEaqun1Kzp/sRh0uuy6fIlRKdlMRUhLb6HkNkAJ6pVkY/vUytU2QpW8o3qPJ8vqdU2atyuPjO7fRCZrcOXJK3GW1gqbAwo/Q+v30Y0q76jLZueirU49TnKfIeY3ZywpCSrjsOmOmhp2mIcbaSwhxt7HnSshKcjseOMd9HtuUOFS7XuSpVSrUn4hJpa4MOGzKQ6+tSyMkhJODwEgevJzjRo+x15dNzGf/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Songs of Chaos</div>
+                                                <div>All Worldlines Complete</div>
                                                 <div class="unlocked">3 Nov 2024</div>
                                             </div>
-                                            <div class="description">[Phone Trigger] Received 4 songs from a chaotic head.</div>
+                                            <div class="description">Completed all endings.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcDBQgE/8QALhAAAQQBAwMCBAYDAAAAAAAAAQIDBBEFAAYhEjFBB3ETMkJRFBUWIjNhcoGR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgQFAAP/xAAeEQACAgICAwAAAAAAAAAAAAABAgARAwQSQSFRgf/aAAwDAQACEQMRAD8AI1Z3JfqfMpdyWWcYS+6pAEsoSgfEIpKeOABQHPnRC3McXMWynM5EVRFyVdujqvvpau5VmcHnIqZBfXKe6DFb61qNlSBf03av3HgatYMXL4yA9kpUGSzHW2bS+rqcRxQUSLsEK8eRVamZhlLEqT6lELjU8TLLfeZm4vDpeg5jLqluMLACZSwB4v3Hce1aKvTXC5yBgI2S3HmsrInvFLxYfkqUltHhJB8kGz/zSuiSzlM7EguyHpalONhPU2W1p+opIIvuTRIHH+taC3FJTEwk2Q6aQy2VqP2A5OntME2r9TkyIxBWZz2k5B26xsjKuyENszEBMoKV/GoIFLNdgQo3Yrj30+VKZkMp+V5h0ApKaWHB/X31kibOczMLFwIqnsdJxUcsqUukJePA5PUOQeoc+NHXpLvB/Z6/w2QZTNbmPBlEsOUIyaHdF/KeDfFHv50b655nxXyamFgiOzamz0xM1Nz+UQ3+ZynCpDKKKY6BwlN+VdIFnteur1UJHprucpJChjn6I/wOpGd67fAAkZrGpNX1fHSB7d+Dqh9RN3bdm7Fz0SJmse/IkQ3GWmmngtS1qTQSAOSSTpvHioUohBGPU//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgFBv/EAC4QAAIABQIEBQIHAAAAAAAAAAECAwQFBhEAIQcSEzEUIlFhgQhxFSNBYpHR8P/EABgBAAMBAQAAAAAAAAAAAAAAAAECBAAD/8QAHxEAAgIBBAMAAAAAAAAAAAAAAQIAEjEDESFBEyKB/9oADAMBAAIRAxEAPwDj72vO5UvSvJAuSsQoKT8dIcOHNuqoocgAAHAAGsYXpdLMFW6a4T2x42J/etCrWpUanWZyqwobmSnJ2LEEaEjP5WbmB++CQAO/KdJPC7g00xTxUrgTpmNDYQZaLD3TfAZhnfIHb399bb0uIrOLlBmFi3ZdsRm6Nz151XG4nIm5JwMb75PbW7aN13LCvi3JebuGutzTsJJiBMzL8rAuARyk7gj112/EywJy2KHDmLbis3I4MeIUXqO5yOYfouBsMYAGw0Qy1TnIV00Caq7vE6U/DCR32PKjZYY+QdABiLdQqwuEOZR/061OHM8PadDYeaGgQsSDkjS0GBGom4Y3XULJnHRfzZOIQ0SA3lIPY49GGqHpHEyjVCS6v4kJYgZMOI3I4/nv8ansdPg4lXhZ+uYkziwDLxBMKrwiCGVhkEemNQ5xrqUOqX3MimQwsjIsZWF0xhQ4BZ8Y/wBtpqvPioZ5Wk6TF6Mu2zTTnDEfsU9vufgaK6xGpb0d4UkqeKMN4ahPMSXO/vljjJ76YMSd5yZGsFCk/J//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Passions Best Forgotten</div>
+                                                <div>Stardust Sky</div>
                                                 <div class="unlocked">3 Nov 2024</div>
                                             </div>
-                                            <div class="description">[Phone Trigger] Learned why Mayuri started making costumes.</div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+32 others...</div>
+                                            <div class="description ellipsis">+34 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2076,7 +2076,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Nov 2024, 22:08:39 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Nov 2024, 23:08:13 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
