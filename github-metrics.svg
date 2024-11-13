@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2066" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2053" class="">
     <defs>
         <style/>
     </defs>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    552k added, 20.6k removed
+                                    831k added, 116k removed
                                 </div>
                             </section>
                             <section>
@@ -1778,7 +1778,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.45m out of 228m repositories</span>
+                                    <span class="gh">ranked 5.45m out of 224m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2018,15 +2018,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,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" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABAUDBgcCAf/EAC8QAAIBAwIGAQMEAQUAAAAAAAECAwQFEQASBhMhIjFBUQdhcRQVIzIWJDNSgZH/xAAZAQACAwEAAAAAAAAAAAAAAAACBAABAwX/xAAdEQADAQEBAQEBAQAAAAAAAAAAAQIDERIEIRQy/9oADAMBAAIRAxEAPwDY73eq2qu0sMVTBHTQIH7l6knQ1ua41dQC08ShjgHbpVfmX/IZA6nY0ajt6aYW6s/bqaSrm7tg/jjHnVHdy+XuAZcY69LnDSUs8TqvdOdvhTotLbc1GZ54gQcr2+R60FwtK2Jqqc5mlJJB9L6Gm1TdRJud2AjhGQfn7aF1wWv56hpCO8vW0USL+ph3ueg26ht8l0qt0y1EIBG0dnsahkL3a5O7A8tOqfnVgEdPS2wvD/Vev/fvVN9GFjkoS4IpJroKueFaiAGNQ2SmpJb3fLK8pM1PLGYwRhPehqBik88kh5pl6dPWpqtVlp5Hboyjw3xq5ZWuWbhsEuqPNxRPggMsSkA+9RXUNKsUULhEB7t3XJ0Rc+vENYo/3FhUqw9nS+73KntU8csiGoqFGVgXyx0Hsaxp54foc09XDSBad0eYjC7RjXlGWYRpVq6RZy8hPTPvWM8YcZ36rurcrCxHoyRrtKDWgfTe23ua1U94jrEejkcpJDKpYjGgZhp9KfOlyo+aVLw4dQxwyjpjQ9fVTlRDGC207sDxp+6MQsNPHyol7nbHzqg/VSsq7VZ4hb/4zIxzKRoZoJby3zg5ro6ijjhdV5LZ3EN1zqGGrNTBJzEYSfOeh1lPAn7reGqpp6yZTEM4lYkH8a1GyIWtMxc/zKP7eta9Di5rG20E3mdYOMnEjYh5a7z9tOqa2wVlzhmcRsV6xkjzqhfUWZoeKXjVunLXP30dwLd5prjDSSyHcpzCc+T8aPTHgv6qsend14Palv00sNJ+oVjuIUa0eyUkdFaIoRTGnA7tp8Z/GmNVHtiSVl6j+2NRJgshOTg5wT60v/kw029ykkSrFGQCzKQemNVTj20fvNJSpDHvEUhJA1aMoTgqRg586jQGIlQw7vGdRr0wMm+meSW6msvD8cTU/LeZyshHQ41zSS/6MxIQGTuP3X1qH6n3FxcoadJF2rg4HvVesVRLIyh2JO7DH5HxphYvh0vXMGefUsbuMyAd+Y1yy+BpPaWleu307FmU43p026uf1It9HU8RSVVNXRRVDRqvIPk6GslFTWuBoVnjCzjDswzg6ZukxD+uYy8l+tnEUiUkcdcN67QOYPA/OnFJOk0fMpmE4P8Ax9aoVPJTx9j1sTDxnHTXNQ4gbfbLrFFL8nO3/wA0nc/pH5UqjQOSBLvXc5Pk56D7aqPGHGtPaYJI6NlqKse18R/nS83WqrbY9PcbjHg5B5IKk/g6p9fw6rtshuMW1jkb8lh+T70WcfoMWugN4q5KtknZ97v3Fz6zptwvCpRyFKlO4ufGhZ7MWMaCqj5C9M48n3pzaESgpZj+rhlr5BthpQO59O0/KGL2SwZ//9k=" alt="" />
                             <div class="about">
-                                <div class="name">MUSYNX</div>
+                                <div class="name">CHAOS;HEAD NOAH</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Indie, Simulation
+                                        Adventure
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2034,7 +2034,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        3 hours played
+                                        12 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2051,32 +2051,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            14 / 27 achievements unlocked
+                                            6 / 34 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABggCBAcF/8QAKRAAAgIBAwMDAwUAAAAAAAAAAQIDBBEABQYSITEHMkEiUWETFXGRwf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABsRAAIDAQEBAAAAAAAAAAAAAAECAAMRMRJx/9oADAMBAAIRAxEAPwBqdRd1RCzkBQMknwNU94stUqNKhYv7VRSMsT4wD5P41nHqZyOWvxKxPRtsl6W1CI4BIVeAr7s48jKHt3GdNELckJyaT+4wfac/kQOf81Yrzx2I+uJsrnHjBB+xB8HSwz+r/NACY7MGQe4FRWx8nAHc40aegnL935DyDfF3xLkss8MdhJ3jZIlCkr0qvtGeoEfJ7/Yab0Mg0whwTkM955Rt+zcouR75HM8saxvRCw9Q6Cv1YPwxYNkn4A0ERQ3+ebaNjihMAFqa815wGFdWZikfT2P1Bs5/jW5EA+QNVmo1mlllEMazSqVeVUAcjGPPnxj+tRbPPOzQYAQYqs+0LxTntKjbuUt4qOwryEv+mhaVShUkZ7DPf57aZTjpnqO1a7Xlimk+odA64ewx2cfOMeca5lDgNOvtZp2LT2WdSjytXhDFe4GMJ2IB93n5zoh49tMex7RX2+CxZsRQL0rJZk63I/Jxp3Wh/szUYZ//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcIBf/EACsQAAEDAwMDAwMFAAAAAAAAAAECAwQFESEABhITIkEHMVEUFWEyUoGxwf/EABgBAQADAQAAAAAAAAAAAAAAAAIAAQME/8QAHREAAgMBAAMBAAAAAAAAAAAAAQMAAhEhIjFCYf/aAAwDAQACEQMRAD8Ao20nl1qrSKdFeMaJEBAQ12pSBcJSkD2GNPI9CZSFF2Q84pXvZRAGb4/rU/pO3XKNvWvQ4VTlRUyl82nGUgqTYc+HcCFXCj8fpHzpRSWKpAqbC5U6dJZe7FJlqbJF/PYMEa5WNwkAzetORcENhlLAHYAAEg+NQveVXcgu1CmzipxvipJbdyFpNxkH3GNO6zBqlXqL300pxtCHQhxlMpbKen+7tyT+NGXtr0uVuWcJTS3RDgOoSjqKUgOhHLkScki+PjHzq0s6BvuS6+H8nFrPqb989QY7FKpPBLLwYacK7OuuBWCfATYEWyc+/jVejVCPVoTb9PdPFYC0OcOQBByk/kEWI9xrKW1qiw16h0yT1W+iailwLKhYgrve/wDOq7IqjW26nNkUebDXFlvKeXGW6C2eXuDY4NwcjQerfIRrt8mUaMtyAmXPnKbc5EqW4ghKG0DznN9Z63tuCpRZrFWpj7kVTiHyCM8uZzyBwQU2FvFtMKvvRVSYSy8YEWMFXDEd2/UX4KjjA+LaC+pUmGjbrHSfZPSXxwsHBQR/miihFtMTbcyf/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Traveller</div>
-                                                <div class="unlocked">13 Nov 2024</div>
+                                                <div>Chapter 4: Di-Sword</div>
+                                                <div class="unlocked">12 Nov 2024</div>
                                             </div>
-                                            <div class="description">Complete any song at 6 different stages</div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgACBQj/xAAlEAABAwQCAQQDAAAAAAAAAAACAQMEAAYRIQUSExQWMUFRYqH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIRMUH/2gAMAwEAAhEDEQA/AOqaq4YtgRuEggKKpES4RET7WrUIvCQnO2zdcF+C4MKLGfHz+fHkcAO2OornG0XelxVmdA1bMXAE2yQgJEUSFcoqL9pVqA2rO9uW7Z8BjjnTgTWGGvUeoRfE6YKWOpLnGlXWkzT6lThEyL8LQmI626zc/HyGJTjcmVIAiYHK9VABVE/bekptWPLtnhZch1+TxkVx11exmQbJcYytWXhpZ6GuV6NxbThsx5DTETkozTZP4yYi04ifH3r+09T4SsKFaPAQZbUqJxMNqQ0XYHBb2K/lK3aU0+GUf//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcDCAAEBf/EACgQAAEDAwMCBwEBAAAAAAAAAAECAwQREiEABQZRYQcTFCIjMUEyUv/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAf/EAB0RAAICAgMBAAAAAAAAAAAAAAECAAMRMQQSIUH/2gAMAwEAAhEDEQA/ACl7fxELseM55LLNEIbbNqUJBoAAPoY1G5yhz5KSF/QI950uoSZ2+bjuK4SHnUMuruQ0m5dLyK06aLuL8N3Td3kj0TkWMD7pEpJGOwOSdJrFXcmGz4J1lcoduJ9Q5S3/AGda0/kBkxHWJDnmtOItW2s1SoEfRB1j/CNzUqSITUWQll5TVpUELwcGhxkd9CHJtpmQJDUJCS5PeoDHYPmFNT+07AnsAdEWq3gmEsPkl5tyja+DeJ+4w+LR2/TMrSXHkOkraeUbnUIVX+cgWmoBr9abbW8SZkVlcWS+9DksB5MthQvVXH2QbaH8oTXGNU/5A8he/bjKaqWJEhx0KJBrcom7H4a10XeGHO9z45uFkB9txu01jPK+NxNc06HU+RRkdl3LqwAxHzIelwIK1vvrUFLPmvPrISa1yagEU69tV25pymTN3mQ9AlPMR23FKjqaUULPttuJGciuOh0ReLHiq9ydLcCIy1Djpy6lC7rlDqe3TSoekJUFVVUUP7oVUkDs0NjAa3P/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>WHAT IS THIS?</div>
-                                                <div class="unlocked">13 Nov 2024</div>
+                                                <div>Chapter 3: Shogun</div>
+                                                <div class="unlocked">12 Nov 2024</div>
                                             </div>
-                                            <div class="description">Select Exit when you play a Lv.10 or  above song</div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+12 others...</div>
+                                            <div class="description ellipsis">+4 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2087,7 +2087,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Nov 2024, 11:14:12 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Nov 2024, 12:11:29 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
