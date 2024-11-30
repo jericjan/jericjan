@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2115" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2122" class="">
     <defs>
         <style/>
     </defs>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    440k added, 118k removed
+                                    476k added, 21.6k removed
                                 </div>
                             </section>
                             <section>
@@ -1386,7 +1386,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 297k out of 149m users</span>
+                                    <span class="gh">ranked 297k out of 147m users</span>
                                 </div>
                                 <div class="text">Published 82 public repositories</div>
                             </div>
@@ -1648,7 +1648,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 3.46m out of 149m users</span>
+                                    <span class="gh">ranked 3.46m out of 147m users</span>
                                 </div>
                                 <div class="text">Followed by 4 users</div>
                             </div>
@@ -2037,32 +2037,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            25 / 235 achievements unlocked
+                                            27 / 235 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABQQHAQIG/8QAKRAAAQQBBAIBBAIDAAAAAAAAAQIDBAURAAYSIRMxURVBYXEUMlKBsf/EABYBAQEBAAAAAAAAAAAAAAAAAAUGA//EACYRAAIBAwQBAwUAAAAAAAAAAAERAgMEIQAFEjFBBhNRFmGBkaH/2gAMAwEAAhEDEQA/AJgBPoE6e2/BrrKNIZlyBEkNjmh4qHFQ+CD8H/utGdmP28KAv6g1GEh5ojxkl1tClKRyx0MZBHvStXQQmKKbJeYsHnWnltoM9QQ6jipoAloeweZySehj51vfTNaBpU5mB8SHhH4OD8Isai9m9JXFe3heAxJJRhMEMHoiQfffg4/aEmz2+xCiRUtKnmGApPiR0CPZJPWM9n7aHs6exsrGbNnIarm/EZSjLc48Wh1nHs4x311kfOk7V9sw9zNQXJS48azaYUmBHDKGkJBKkO+8tpH9ldZ/Whd5T4tZa3aJ9wlxyVW2KWI/JKkteV9JbSkpycrAKuz1+MaM2zbaVhIzpGUpF5kX2WUAgGcnGrL6QO4cKd3UCweMIrqITJZKBWUNQ5u801VhtGI2tx+LET5pkdhrLilhSygZPvHLOM47+dRYV1b2EqNS7fqzFTYIefYfs3yta21lClLKsD7s++/jTOzrSLTpuJ8pbqP4kVDxUygKc4B5OUjP+Xr/AGdYelRWZFPuKxkMxIS6F5CUtuo83kcU4oJQgnJOF9H1pOdNVDp/0rfwudpoy9hGMeIJJPKUQUVh/wBxj765u/pLeNtncFvZXjpDkxxuRGjZQ25KDvAhQ6yOOVevWBqsB71YG/d1wLKFdV9Y4861KuvqLa+PFBQWuJ6PeeX4+2q+P60laUCmRq7sJ1RRJqhEnpJBDH41/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQcGAQT/xAAsEAACAQMDAgYCAQUAAAAAAAABAgMEBREAIUESMQYTIlFhcRQyBxViY4GR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAf/EACERAAEDBAEFAAAAAAAAAAAAAAEAAhEDBBIhQQUxYXGh/9oADAMBAAIRAxEAPwA6orayokpIKCaKNpaipjnaRSfSvUMDHYjYg/GuWlpbXB5VW6GeOTEzJnpkJx6wO/qUgn+5CeTqeXzxVXWK5SOkbqVnkJhbA/YjOTvuCpH+wedJ0dwul5p476itJFMMCCMgeW0auCoyNgQx3POk9xPCqy3HKon5kbyFAynzhgEHYsOx/wCjH2NFXO7tPJHb4XMVTOu0ir1dOP32+sY4yR37aDpaSQiKoSKaFnHmCBqhSgcNs3csrZ3DD42xtr2NLT2uGeHp82pjSRwyrnESb4J32wvbkjQHwikp3+SLdaaiwTf1Spo6OdVLQSzsB6sYxjuQckc478axfhS52+ioXorSHZW6Z6WJmYhjj1nrOy7jnGNvfTlZT0Xiu3wyXUU1esgBEsY6Qp7HoPdcex39xqO2qqgorpU06VHTbS5EckoDFB1EDO3OMHb51H0yzfbUcKjpPweltzWD35NCt9W6rSSGB4kduzBhgE8/PvoqzQiqjra6QK/5mIYm9oQvTt8scn6xxrP2vyfEIMNqjEFKFCVdaAes/wCOMtyeTwPvWvqJobfTApExSMBIoIVyztjAVR74547ntqwiNJeUr//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>JUST 100%</div>
-                                                <div class="unlocked">10 Nov 2024</div>
+                                                <div>Can you hear me?</div>
+                                                <div class="unlocked">1 Dec 2024</div>
                                             </div>
-                                            <div class="description">Cleared a pattern with PERFECT PLAY.</div>
+                                            <div class="description">Used CYTUS UI Skin.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcCAwYE/8QAKhAAAgECBQMDBAMAAAAAAAAAAQIDBBEABQYSITFBUQciYRNicYEUQpH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQF/8QAIREAAQQBAwUAAAAAAAAAAAAAAQACAxEEEhMxISJScaH/2gAMAwEAAhEDEQA/AHW+gsmgrcvrMvpzDLRzJIU3llmAP9r35738jGb9XdRVeSZllrmGKqyqop3ZFI2uJkYbtsg5UlD0NxxyDhpYwHqjpxM3yswSzCCnmlWRZmW4ppxwHP2OCVbwbN5wts7nuG6b9qol7zYPUcJW6k1blNZkxrqWrSRvomOOncWfezWIde20C56g+23Xji0Rp7OtQZfJPQ0klQglIaV2VVvYcXJH+DGgofSOmgiq0rknqaqMqHkgchY2KhuFHBtcc84bWgMqhyTTy5fTwzRRxSM4EvLe+zcmwv1tfwB3xTDnHEsRfeFRuysIlJBsI5QySvDsqVC1Efte3Q+GHwcTqoEqaeSGUAo4sbi/7xXXM0Ef8lFLGLl1HVk7/sdR+PnF8brJGrxsGRgCrDoQe+MxIPkENypaaljkgoFjV4nvUQq12ViB5NwLWt2ta2CaOHUMpuD3wsvWOlr8nFLq/IpWhqqK0NXt6PCT7Sw7gE2Pw3xgt6ba8oNY0TSQkQ1qcVNOeNrgX3D7WFz+VIwwx9usFDeo0v/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABwgFBgACBP/EACwQAAICAQMDAwMDBQAAAAAAAAECAwQFABESBiExEyJBBxRRCBUyI2FigZH/xAAYAQACAwAAAAAAAAAAAAAAAAACBQEDBv/EACcRAAEDAwIEBwAAAAAAAAAAAAECBBEAAxIhYQVRccEUIiMxQaHh/9oADAMBAAIRAxEAPwCbo9AdJYKoMvVx37qqYzHzxrkt2WRrE5RpGQHYHjtsvgf386uvTWNpdNdQ16GDrQ1KmQz1uGzGiD+pGtVnVNz34gjcAaDbfWiCvWqVIMAt2omKqUZo7cpTlLXYsrjjv7dz4PfsNGfpNruSwONyGSuMrZajNfnNYekIpXClUXyQeLkctwfbvp46tuEj1ZM8zty296m+bqIhMzv960nWUUJkraoAqLNIAB4ADHtrnXckbd+/xppcH9Oek4bHTQOHi3sQTLfed2lHJqqSBveSBxLdttV/06OP6/zNm1i6iSG1JGrpEN4ArFV4jwBsB4G+nPj/ACnBMkCeusdponPEA3tFaU5EfFL7BBLZnSGvFJLM52SONSzMfwAO50zXSfUWbu9JYqLC4Gw1ZBXoepYPBRNHCYGU/j3HffwCADocfp2r2JuqM21AbZCPFSfbMP5I7SxryHz2BO+3xvo+V8nSqehPdylKZjMI3eIgAutqWR24Akqv8T/sedUcQcgKwxBjr2ond4JOJqHjxvVmUiMeRyNenX+5el6UEZkZOMQ5BP8AEiMdgdySfzrG6OrMMrYu3rdu5tK6SsAh5LEjn1B33O78dt+22pdeqaUzV3CTsQEeT0xx3cxSK5BPzycf81rNnJbMFmFK6Ksu6q7MWdUKqpB+CSEHfSW65uDQQkbAD9rOPH1hCTKpNf/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Kitty Universe</div>
-                                                <div class="unlocked">9 Nov 2024</div>
+                                                <div>Hidden Talent</div>
+                                                <div class="unlocked">1 Dec 2024</div>
                                             </div>
-                                            <div class="description"></div>
+                                            <div class="description">Cleared 100 patterns in MAX COMBO.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+23 others...</div>
+                                            <div class="description ellipsis">+25 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2073,7 +2073,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Dec 2024, 01:07:41 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Dec 2024, 02:11:10 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
