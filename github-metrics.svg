@@ -38,8 +38,8 @@
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -286,7 +286,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~2.87
+                            Average per day at ~2.86
                         </div>
                     </section>
                 </div>
@@ -1274,6 +1274,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1379,7 +1384,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABgECBAUHA//EACoQAAEDAwQBAgYDAAAAAAAAAAECAwQFESEABhIxQTJRBxMUQmFxIoGR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQAAwX/xAAlEQABAwIFBAMAAAAAAAAAAAABAAIRA2ESISIxQQQFUfAUcZH/2gAMAwEAAhEDEQA/ANGehAjrURcGxuBYj20lW3rQKYFiRNSpaAklCBc5wnHefGM6paTu07tq0+lUEhp+GEl7kLKAJtgn2ODYY1USFoMbViSIF/bFTJxDLqGEIVImOEBthHqJPufA/J06Mw41OegyflfVtAL5N5StJ8pv7HB/WulRjR9qx1yBS6pWakWi4tUEhHBOe1lQ7IOM3scW1Sv1Ctu1GhVSezHhx1oUTGLi3n0IJACVr4pSL3UbAH0nQAkmeEbhI05jzdAlWi1rcFTd3PtWnCVV0xkQ5kNpwEqULWkJauCpJAsUj0qF+tGnwP2bO207Wa9XYZpsqooS2zBWvkpCQearnxyVawOQBnQ5Ttg7nkOodp7cNTiTyStmpM8k/wCKuNGFJpHxTbqMVmXV49OpKApcuZJWzJKEDwkdlXeTYDyfGphcRCa61rG5NeIBnDyCd459stQizEpZddIQ238vm+44LoQAM3UcEC51lm461K3TWfp6SODCSkIJQAp6x9Sh+uXFP23J7vpd7bqXV7QIC3BS2iP5L9clQ+9f49h/ftaq29KegJckxVhDrnJHOwJCeja/R70BMCE5S7f8Wga9QazsPH3ePxf/2Q==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Fingers Outpace Notes</div>
@@ -1461,7 +1466,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Mar 2026, 07:25:36 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Mar 2026, 09:14:25 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
