@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - Discord: [Kur0#5384](https://discord.com/users/396892407884546058)
 - Twitter: [@CantilJan](https://twitter.com/CantilJan)
 
-[![jericjan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jericjan&theme=react-dark&custom_title=le%20activity%20graph&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![jericjan's github activity graph](https://github-activity-graph.luckylinux.dev/graph?username=jericjan&theme=react-dark&custom_title=le%20activity%20graph&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center" >
   <a href="https://github.com/cicirello/user-statistician"><img src="images/userstats.svg"></a>  
